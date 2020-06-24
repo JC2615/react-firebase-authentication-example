@@ -12,7 +12,7 @@ import "firebase/firestore";
 
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDLkBnqgBnwfNBDilry1o8lH2EyRz7UWug",
+  apiKey: "*******",
   authDomain: "react-example-26243.firebaseapp.com",
   databaseURL: "https://react-example-26243.firebaseio.com",
   projectId: "react-example-26243",
