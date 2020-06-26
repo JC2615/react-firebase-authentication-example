@@ -9,6 +9,7 @@ import {
 import Dashboard from "./components/Dashboard";
 import CreateUser from "./components/CreateUser";
 import Home from "./components/Home";
+import CreateUser2 from "./components/CreateUser2";
 
 // This site has 3 pages, all of which are rendered
 // dynamically in the browser (not server rendered).
@@ -53,6 +54,9 @@ function App() {
           </Route>
           <Route path="/dashboard">
             <Dashboard />
+          </Route>
+          <Route path="/CreateUser2">
+            <CreateUser2 />
           </Route>
         </Switch>
       </div>
